@@ -22,7 +22,7 @@ Esta aplicación se desarrollo con un stack React - NodeJS - Graphql, se uso bas
     yarn install
 ```
 
-## Correr en Frontend
+## Correr Frontend
 
 ```bash
     yarn start
@@ -31,7 +31,7 @@ Esta aplicación se desarrollo con un stack React - NodeJS - Graphql, se uso bas
 Esto iniciara la aplicación de React, el cual estara en modo de desarrollo.
 Abre [http://localhost:3000](http://localhost:3000) en el navegador.
 
-## Correr en Backend
+## Correr Backend
 
 ```bash
     yarn server
