@@ -1,4 +1,4 @@
-# Prueba tecnica para e-volution
+# Aplicación de tareas
 
 01/06/2020
 
@@ -39,7 +39,3 @@ Abre [http://localhost:3000](http://localhost:3000) en el navegador.
 
 Esto iniciara la aplicación de Nodejs.
 El cual deberia correr en la dirección [http://localhost:8000](http://localhost:8000).
-
-Agradesco por la oportunidad de participar en la selección, espero que mi trabajo sea de su agrado.
-
-Saludos!
