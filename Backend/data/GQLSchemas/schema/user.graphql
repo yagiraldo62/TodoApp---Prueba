@@ -1,0 +1,7 @@
+### Types
+type User {
+	_id: ID
+	Name: String
+	Email: String
+	Password: String
+}

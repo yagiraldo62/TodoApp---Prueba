@@ -1,0 +1,21 @@
+scalar Date
+
+type Todo {
+	_id: ID
+	Name: String
+	Description: String
+	DueDate: Date
+	Priority: Int
+	Completed: Boolean
+	CreatedAt: Date
+	CreatedBy: ID
+}
+
+input TodoInput {
+	_id: ID
+	Name: String!
+	Description: String!
+	DueDate: Date
+	Priority: Int!
+	Completed: Boolean
+}

@@ -1,0 +1,13 @@
+# import 'todo.graphql'
+# import 'user.graphql'
+
+type Query {
+	Me: User
+	ReadTodos: [Todo]
+}
+
+type Mutation {
+	CreateTodo(todo: TodoInput): Todo
+	UpdateTodo(todo: TodoInput): Todo
+	DeleteTodo(todo: ID): Boolean
+}
